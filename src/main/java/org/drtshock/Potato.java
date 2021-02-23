@@ -196,6 +196,7 @@ public class Potato implements Tuber {
          * Gets the name of this condiment.
          *
          * @return Name
+         * tesco meal deal is saying hi :)
          */
         public String getName() {
             return this.name;
